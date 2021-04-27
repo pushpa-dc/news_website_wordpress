@@ -2,7 +2,7 @@
 Theme Name: meronews
 Theme URI: http://www.appharu.com
 Author: Ishant Sitaula
-Author URI: http://www.ishant.com.np
+Author URI: http://www.pushpadangi.com.np
 Description: Description
 Version: 1.0.1
 License: GNU General Public License v2 or later
@@ -60,7 +60,7 @@ h6:hover {
     bottom: 0;
     background: #ffffff;
     width: 250px;
-    z-index: 1;
+    z-index: 1055;
     transition: .4s all ease-in-out;
     border-right: 1px solid #ddd;
 }
@@ -99,7 +99,7 @@ h6:hover {
 
 
 .my-nav .nav-link {
-    color: #ddd !important;
+    color: #343a40 !important;
     font-size: 20px;
     margin: 0px 10px;
     font-weight: 600;
@@ -500,7 +500,7 @@ frame#twitter-widget-0 {
     position: relative;
     font-weight: 900;
     font-size: 30px;
-    background: #000;
+    background: #0f0d6f;
     padding: 5px 15px;
     display: inline;
 }

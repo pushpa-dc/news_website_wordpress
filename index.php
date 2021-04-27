@@ -150,7 +150,7 @@
         </div>
     </div>
 </div> -->
-<div class="container-fluid" style="background:#333333">
+<div class="container-fluid" style="background:#ece7e7">
     <div class="container">
         <div class="row my-5">
             <?php get_template_part('home-parts/video');?>

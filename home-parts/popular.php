@@ -1,8 +1,8 @@
 <ul class="nav nav-tabs nav-fill" id="myTab" role="tablist">
     <li class="nav-item" role="presentation">
-        <a class="nav-link bg-dark text-white" id="home-tab" data-toggle="tab" href="#home" role="tab"
-            aria-controls="home" aria-selected="true">
-            <div class="inner-cat d-block bg-dark w-100">लोकप्रिय</div>
+        <a class="nav-link text-white" id="home-tab" data-toggle="tab" href="#home" role="tab"
+            aria-controls="home" aria-selected="true" style="background:#0f0d6f!important">
+            <div class="inner-cat d-block  w-100">लोकप्रिय</div>
         </a>
     </li>
 </ul>
